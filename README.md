@@ -27,8 +27,5 @@
   height="300"
 />
 </a>
-  
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuji-j%2Fhit-counter&count_bg=%230B0B0B&title_bg=%230B0B0B&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
-
+ 
 </div>
